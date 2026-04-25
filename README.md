@@ -36,7 +36,7 @@ Maargdarshan is a decentralized assistive mobility ecosystem designed for visual
 ##  High-Level Tech Stack
 
 * **Hardware Edge Layer:** Custom Embedded Systems (C/C++)
-* **Mobile Infrastructure:** Native Android Ecosystem (Flutter/Kotlin)
+* **Mobile Infrastructure:** Native Android Ecosystem (Flutter/Kotlin/Dart)
 * **Cloud & Web Interface:** React Ecosystem & Real-Time Sync Protocols (JavaScript/HTML/Three.js/React.js/Flask)
 * **Intelligence:** Multimodal Large Language Models (LLMs)
 * **Server:** Python
