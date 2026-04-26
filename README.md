@@ -9,6 +9,14 @@
 
 ---
 
+## 🚀 Live Prototypes (Beta)
+> 🌐 **Live Caretaker Dashboard:** [Experience the Web App here](https://maarg-darshan.vercel.app/)
+> 📱 **Android App (Beta APK):** [Download from Google Drive](https://drive.google.com/file/d/1kAw5_C6xUDN8_BLvVMUVQd9Q_YRHFo8i/view)
+> 
+> *Note: These are active beta prototypes meant for demonstration and testing purposes.*
+
+---
+
 ##  The Vision: Bringing Color to a Lightless World
 Maargdarshan is a decentralized assistive mobility ecosystem designed for visually impaired individuals. Moving beyond the limitations of traditional white canes, this project fuses custom edge-hardware, persistent mobile architecture, and cloud-based dashboards to translate the physical world into an intuitive auditory and haptic experience.
 
