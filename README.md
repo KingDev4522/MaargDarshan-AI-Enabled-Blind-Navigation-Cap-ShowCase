@@ -39,6 +39,10 @@ Maargdarshan is a decentralized assistive mobility ecosystem designed for visual
 * **Live Telemetry & Mirroring:** Provides caretakers with a real-time, synchronized visual representation of the user's physical environment and hardware state.
 * **Resilient SOS Pipeline:** A multi-channel emergency dispatch system designed to bypass standard mobile OS limitations, ensuring caretakers are instantly and aggressively alerted during a crisis.
 
+### 4. ⚙️ The Routing Node (Python Server)
+* **Central API Gateway:** Acts as the nervous system of the entire ecosystem, seamlessly bridging the gap between the physical IoT hardware, the mobile application, and the web portal.
+* **Real-Time Telemetry & Sync:** Manages bi-directional data flow, handling high-frequency sensor payloads and routing critical states with minimal latency.
+
 ---
 
 ##  High-Level Tech Stack
@@ -46,7 +50,7 @@ Maargdarshan is a decentralized assistive mobility ecosystem designed for visual
 * **Hardware Edge Layer:** Custom Embedded Systems, ESP32, Arduino (C/C++)
 * **Mobile Infrastructure:** Native Android Ecosystem (Flutter/Kotlin/Dart)
 * **Cloud & Web Interface:** React Ecosystem & Real-Time Sync Protocols (JavaScript/HTML/Three.js/React.js/Flask)
-* **Backend Server:** Python-based routing
+* **Backend Server:** Python API & Data Synchronization Protocols
 * **Intelligence:** Multimodal Large Language Models (LLMs)
 
 
@@ -57,7 +61,7 @@ This ecosystem was engineered by a team of B.Tech Computer Science students:
 
 * **[Debjeet Mazumder](https://github.com/KingDev4522)** — Founder, Solo Architect & Lead Developer
 * **[Debadrita Baksi](https://github.com/debadritabaksi)** — UI/UX & Web Interface Co-Developer
-* **[Mehul Kumar Jaiswal](https://github.com/mehul18ji)** — AI, App & Embedded Systems Co-Developer
+* **[Mehul Kumar Jaiswal](https://github.com/mehul18ji)** — AI, App, Backend & Embedded Systems Co-Developer
 * **[Mohit Pandey](https://github.com/mohitpandey827680165-lgtm)** — Backend Web Co-Developer
 
 *Built with passion, late-night debugging, and a shared vision.*
