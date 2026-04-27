@@ -43,17 +43,21 @@ Maargdarshan is a decentralized assistive mobility ecosystem designed for visual
 
 ##  High-Level Tech Stack
 
-* **Hardware Edge Layer:** Custom Embedded Systems (C/C++)
+* **Hardware Edge Layer:** Custom Embedded Systems, ESP32, Arduino (C/C++)
 * **Mobile Infrastructure:** Native Android Ecosystem (Flutter/Kotlin/Dart)
 * **Cloud & Web Interface:** React Ecosystem & Real-Time Sync Protocols (JavaScript/HTML/Three.js/React.js/Flask)
+* **Backend Server:** Python-based routing
 * **Intelligence:** Multimodal Large Language Models (LLMs)
-* **Server:** Python
+
 
 ---
 
 ##  The Team
 This ecosystem was engineered by a team of B.Tech Computer Science students:
 
-**[Debjeet Mazumder](https://github.com/KingDev4522)  •  [Mehul Kumar Jaiswal](https://github.com/mehul18ji)  •  [Debadrita Baksi](https://github.com/debadritabaksi)  •  Mohit Pandey**
+* **[Debjeet Mazumder](https://github.com/KingDev4522)** — Founder, Solo Architect & Lead Developer
+* **[Debadrita Baksi](https://github.com/debadritabaksi)** — UI/UX & Web Interface Co-Developer
+* **[Mehul Kumar Jaiswal](https://github.com/mehul18ji)** — AI, App & Embedded Systems Co-Developer
+* **[Mohit Pandey](https://github.com/mohitpandey827680165-lgtm)** — Backend Web Co-Developer
 
 *Built with passion, late-night debugging, and a shared vision.*
