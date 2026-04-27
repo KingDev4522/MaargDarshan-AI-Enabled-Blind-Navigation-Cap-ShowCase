@@ -41,7 +41,7 @@ Maargdarshan is a decentralized assistive mobility ecosystem designed for visual
 
 ### 4. ⚙️ The Routing Node (Python Server)
 * **Central API Gateway:** Acts as the nervous system of the entire ecosystem, seamlessly bridging the gap between the physical IoT hardware, the mobile application, and the web portal.
-* **Real-Time Telemetry & Sync:** Manages bi-directional data flow, handling high-frequency sensor payloads and routing critical states with minimal latency.
+* **Real-Time Telemetry & Sync:** Manages bi-directional data flow, handling high-frequency sensor payloads, automated SOS dispatch routing and routing critical states with minimal latency for live optical streaming.
 
 ---
 
