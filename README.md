@@ -4,25 +4,34 @@
 ![Project: Closed Source](https://img.shields.io/badge/Code-Closed_Source-blue?style=for-the-badge)
 ![Hardware: Custom Build](https://img.shields.io/badge/Hardware-Custom_Build-orange?style=for-the-badge)
 
-> ## Intellectual Property Notice:
+> ## 🏛️ Intellectual Property Notice:
 > The source code, schematic blueprints, and specific algorithmic implementations for this project are currently strictly closed-source as the architecture is officially **Patent Pending** under the Indian Patents Act, 1970. This repository serves as a high-level architectural showcase.
 
 ---
 
 ## 🚀 Live Prototypes (Beta)
-> 🌐 **Live Caretaker Dashboard:** [Experience the Web App here](https://maarg-darshan.vercel.app/)
-> 📱 **Android App (Beta APK):** [Download from Google Drive](https://drive.google.com/file/d/1kAw5_C6xUDN8_BLvVMUVQd9Q_YRHFo8i/view)
-> 
-> *Note: These are active beta prototypes meant for demonstration and testing purposes.*
+
+🌐 **Live Caretaker Dashboard:** [Experience the Web App here](https://maarg-darshan.vercel.app/)  
+📱 **Android App (Beta APK):** [Download from Google Drive](https://drive.google.com/file/d/1kAw5_C6xUDN8_BLvVMUVQd9Q_YRHFo8i/view)  
+
+### 💡 Quick Test Drive
+Use our pre-loaded credentials to bypass registration and test the AI instantly *(Username works as email)*:
+* **User's Username:** `demo_user`
+* **Caretaker's Username:** `demo_caretaker`
+* **Password:** `password123`
+
+> **⏳ Tech Note:** Our backend is currently hosted on a serverless cloud tier. If you choose to register a fresh account or log in for the first time, please allow up to **60 seconds** for the AI server to wake up from sleep mode.
+
+> **⚠️ Disclaimer:** The Maargdarshan ecosystem is a prototype currently in active Beta development. The live web dashboard, mobile application, and associated hardware logic are provided strictly for demonstration, portfolio, and testing purposes. They are not certified and must not be relied upon for primary medical, navigational, or real-world emergency use.
 
 ---
 
-##  The Vision: Bringing Color to a Lightless World
+## 👁️ The Vision: Bringing Color to a Lightless World
 Maargdarshan is a decentralized assistive mobility ecosystem designed for visually impaired individuals. Moving beyond the limitations of traditional white canes, this project fuses custom edge-hardware, persistent mobile architecture, and cloud-based dashboards to translate the physical world into an intuitive auditory and haptic experience.
 
 ---
 
-## Core Ecosystem Overview
+## ⚙️ Core Ecosystem Overview
 
 ### 1. 🧢 The Hardware Node (Smart Cap)
 * **Real-Time Spatial Mapping:** Utilizes a custom, multidirectional sensor array to detect and map physical obstacles in a 360-degree radius.
@@ -39,13 +48,13 @@ Maargdarshan is a decentralized assistive mobility ecosystem designed for visual
 * **Live Telemetry & Mirroring:** Provides caretakers with a real-time, synchronized visual representation of the user's physical environment and hardware state.
 * **Resilient SOS Pipeline:** A multi-channel emergency dispatch system designed to bypass standard mobile OS limitations, ensuring caretakers are instantly and aggressively alerted during a crisis.
 
-### 4. ⚙️ The Routing Node (Python Server)
+### 4. 🔀 The Routing Node (Python Server)
 * **Central API Gateway:** Acts as the nervous system of the entire ecosystem, seamlessly bridging the gap between the physical IoT hardware, the mobile application, and the web portal.
-* **Real-Time Telemetry & Sync:** Manages bi-directional data flow, handling high-frequency sensor payloads, automated SOS dispatch routing and routing critical states with minimal latency for live optical streaming.
+* **Real-Time Telemetry & Sync:** Manages bi-directional data flow, handling high-frequency sensor payloads, automated SOS dispatch routing, and routing critical states with minimal latency for live optical streaming.
 
 ---
 
-##  High-Level Tech Stack
+## 🛠️ High-Level Tech Stack
 
 * **Hardware Edge Layer:** Custom Embedded Systems, ESP32, Arduino (C/C++)
 * **Mobile Infrastructure:** Native Android Ecosystem (Flutter/Kotlin/Dart)
@@ -53,10 +62,9 @@ Maargdarshan is a decentralized assistive mobility ecosystem designed for visual
 * **Backend Server:** Python API & Data Synchronization Protocols
 * **Intelligence:** Multimodal Large Language Models (LLMs)
 
-
 ---
 
-##  The Team
+## 👨‍💻 The Team
 This ecosystem was engineered by a team of B.Tech Computer Science students:
 
 * **[Debjeet Mazumder](https://github.com/KingDev4522)** — Founder, Solo Architect & Lead Developer
