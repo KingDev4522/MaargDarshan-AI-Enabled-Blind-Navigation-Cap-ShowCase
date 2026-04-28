@@ -20,7 +20,7 @@ Use our pre-loaded credentials to bypass registration and test the AI instantly 
 * **Caretaker's Username:** `demo_caretaker`
 * **Password:** `password123`
 
-> **⏳ Tech Note:** Our backend is currently hosted on a serverless cloud tier. If you choose to register a fresh account or log in for the first time, please allow up to **60 seconds** for the AI server to wake up from sleep mode.
+**⏳ Tech Note:** Our backend is currently hosted on a serverless cloud tier. If you choose to register a fresh account or log in for the first time, please allow up to **60 seconds** for the AI server to wake up from sleep mode.
 
 > **⚠️ Disclaimer:** The Maargdarshan ecosystem is a prototype currently in active Beta development. The live web dashboard, mobile application, and associated hardware logic are provided strictly for demonstration, portfolio, and testing purposes. They are not certified and must not be relied upon for primary medical, navigational, or real-world emergency use.
 
